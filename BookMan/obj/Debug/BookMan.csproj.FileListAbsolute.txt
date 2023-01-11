@@ -1,0 +1,8 @@
+D:\MVC C#\BOOKMAN\BookMan\bin\Debug\BookMan.exe.config
+D:\MVC C#\BOOKMAN\BookMan\bin\Debug\BookMan.exe
+D:\MVC C#\BOOKMAN\BookMan\bin\Debug\BookMan.pdb
+D:\MVC C#\BOOKMAN\BookMan\obj\Debug\BookMan.csproj.AssemblyReference.cache
+D:\MVC C#\BOOKMAN\BookMan\obj\Debug\BookMan.csproj.SuggestedBindingRedirects.cache
+D:\MVC C#\BOOKMAN\BookMan\obj\Debug\BookMan.csproj.CoreCompileInputs.cache
+D:\MVC C#\BOOKMAN\BookMan\obj\Debug\BookMan.exe
+D:\MVC C#\BOOKMAN\BookMan\obj\Debug\BookMan.pdb
