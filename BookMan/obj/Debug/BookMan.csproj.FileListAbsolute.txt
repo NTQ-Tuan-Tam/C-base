@@ -6,3 +6,11 @@ D:\MVC C#\BOOKMAN\BookMan\obj\Debug\BookMan.csproj.SuggestedBindingRedirects.cac
 D:\MVC C#\BOOKMAN\BookMan\obj\Debug\BookMan.csproj.CoreCompileInputs.cache
 D:\MVC C#\BOOKMAN\BookMan\obj\Debug\BookMan.exe
 D:\MVC C#\BOOKMAN\BookMan\obj\Debug\BookMan.pdb
+C:\Users\TUAN TAM\OneDrive\Máy tính\clonRole\C-base\BookMan\bin\Debug\BookMan.exe.config
+C:\Users\TUAN TAM\OneDrive\Máy tính\clonRole\C-base\BookMan\bin\Debug\BookMan.exe
+C:\Users\TUAN TAM\OneDrive\Máy tính\clonRole\C-base\BookMan\bin\Debug\BookMan.pdb
+C:\Users\TUAN TAM\OneDrive\Máy tính\clonRole\C-base\BookMan\obj\Debug\BookMan.csproj.AssemblyReference.cache
+C:\Users\TUAN TAM\OneDrive\Máy tính\clonRole\C-base\BookMan\obj\Debug\BookMan.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUAN TAM\OneDrive\Máy tính\clonRole\C-base\BookMan\obj\Debug\BookMan.csproj.CoreCompileInputs.cache
+C:\Users\TUAN TAM\OneDrive\Máy tính\clonRole\C-base\BookMan\obj\Debug\BookMan.exe
+C:\Users\TUAN TAM\OneDrive\Máy tính\clonRole\C-base\BookMan\obj\Debug\BookMan.pdb

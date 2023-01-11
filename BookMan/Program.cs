@@ -12,8 +12,23 @@ namespace BookMan
        private static void Main(string[] args)
         {
             BookController controller = new BookController();
-            controller.Single(0);
-            Console.ReadKey();
+            while (true)
+            {
+                Console.Write("Request: > ");
+                string Request = Console.ReadLine();
+                switch (Request.ToLower())
+                {
+                    case "single":
+                        controller.Single(1);
+                        break;
+                    case "create":
+                        controller.Create();
+                        break;
+                    default:
+                        Console.WriteLine("Unknow command");
+                        break;
+                }
+            }
         
         }
     }

@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace BookMan.Controller
+﻿namespace BookMan.Controller
 {
+    using BookMan.ConsoleApp.Views;
     using Models;
-    using Views;
+
     /// <summary>
     /// lớp điều khiển, giúp ghép nối dữ liệu sách với giao diện
     /// </summary>
@@ -31,5 +26,10 @@ namespace BookMan.Controller
             //gội phương thức Render dể thực sự hiển thị ra màn hình 
             view.Render();
         }
+         public void Create()
+        {
+            BookCreateView create = new BookCreateView(); //khoi tao object
+            create.Render(); //in ra man hinh
+         }      
     }
 }
