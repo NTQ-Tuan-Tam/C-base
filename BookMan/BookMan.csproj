@@ -45,16 +45,20 @@
   <ItemGroup>
     <Compile Include="Controller\BookController.cs" />
     <Compile Include="Controller\BoolSingleView.cs" />
+    <Compile Include="DataService\Repository.cs" />
+    <Compile Include="DataService\SimpleDataAccess.cs" />
     <Compile Include="Models\Book.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Share\Extension.cs" />
+    <Compile Include="Share\ViewColor.cs" />
     <Compile Include="Views\BookCreateView.cs" />
+    <Compile Include="Views\BookListView.cs" />
+    <Compile Include="Views\BookUpdateView.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Framework\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

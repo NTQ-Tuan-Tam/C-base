@@ -3,7 +3,7 @@
     /// <summary>
     /// lớp mÔ tả đối tượng sách 
     /// </summary>
-    internal class Book
+    public class Book
     {
         private int _id;
 

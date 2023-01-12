@@ -2,6 +2,7 @@
 
 namespace BookMan.Controller
 {
+    using BookMan.Share;
     using Models;
     using System.Configuration;
     using System.Net.Http;
@@ -18,10 +19,10 @@ namespace BookMan.Controller
         {
             if (Model == null )
             {
-               Console.WriteLine("No book found. sory!",ConsoleColor.Red);
+               ViewColor.WriteLine("No book found. sory!",ConsoleColor.Red);
                 return;
             }
-            Console.WriteLine("bool detail information", ConsoleColor.Green);
+            ViewColor.WriteLine("NO book found. sony ", ConsoleColor.Red);
 
             Console.WriteLine($"Authors: {Model.Authors}");
             Console.WriteLine($"Title:   {Model.Title}");
